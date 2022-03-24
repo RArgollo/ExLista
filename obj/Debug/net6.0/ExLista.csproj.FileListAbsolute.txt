@@ -1,0 +1,15 @@
+C:\Users\rafae\projetosDODEV\ExLista\bin\Debug\net6.0\ExLista.exe
+C:\Users\rafae\projetosDODEV\ExLista\bin\Debug\net6.0\ExLista.deps.json
+C:\Users\rafae\projetosDODEV\ExLista\bin\Debug\net6.0\ExLista.runtimeconfig.json
+C:\Users\rafae\projetosDODEV\ExLista\bin\Debug\net6.0\ExLista.dll
+C:\Users\rafae\projetosDODEV\ExLista\bin\Debug\net6.0\ExLista.pdb
+C:\Users\rafae\projetosDODEV\ExLista\obj\Debug\net6.0\ExLista.csproj.AssemblyReference.cache
+C:\Users\rafae\projetosDODEV\ExLista\obj\Debug\net6.0\ExLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\projetosDODEV\ExLista\obj\Debug\net6.0\ExLista.AssemblyInfoInputs.cache
+C:\Users\rafae\projetosDODEV\ExLista\obj\Debug\net6.0\ExLista.AssemblyInfo.cs
+C:\Users\rafae\projetosDODEV\ExLista\obj\Debug\net6.0\ExLista.csproj.CoreCompileInputs.cache
+C:\Users\rafae\projetosDODEV\ExLista\obj\Debug\net6.0\ExLista.dll
+C:\Users\rafae\projetosDODEV\ExLista\obj\Debug\net6.0\refint\ExLista.dll
+C:\Users\rafae\projetosDODEV\ExLista\obj\Debug\net6.0\ExLista.pdb
+C:\Users\rafae\projetosDODEV\ExLista\obj\Debug\net6.0\ExLista.genruntimeconfig.cache
+C:\Users\rafae\projetosDODEV\ExLista\obj\Debug\net6.0\ref\ExLista.dll
