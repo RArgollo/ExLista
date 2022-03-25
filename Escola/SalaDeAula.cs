@@ -11,14 +11,16 @@ namespace ExLista.Escola
             Serie = serie;
             Alunos = alunosInicial;
         }
-        public void AdicionarAluno(Aluno aluno)
+        public void AdicionarAluno(string nome, string cpf, DateTime dataDeNascimento)
         {
-            Alunos.Add(aluno);
+            Alunos.Add(new Aluno(nome, cpf, dataDeNascimento));
         }
-        public void RemoverAluno(string cpf){
+        public void RemoverAluno(string cpf)
+        {
             Alunos.RemoveAll(aluno => aluno.CPF == cpf);
         }
-        public void MudarProfessor(string nomeProfessor){
+        public void MudarProfessor(string nomeProfessor)
+        {
             NomeDoProfessor = nomeProfessor;
         }
     }
