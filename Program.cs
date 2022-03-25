@@ -9,6 +9,9 @@ public class Program
         var dataDeNascimento = DateTime.Parse("19/11/2001");
         var dateTimeEmString = dataDeNascimento.ToString("dd/MM/yy hh:mm.ss");
         Console.WriteLine($"Você nasceu no dia {dataDeNascimento.Day} do mês {dataDeNascimento.Month} do {dataDeNascimento.DayOfYear} dia do ano");
+        //TimeSpan é utilizado para identificar diferença de datas
+        var diferença = dataEHoraAtual.Subtract(dataEHoraTres);
+        Console.WriteLine(diferença.Days);
     }
 }
 
